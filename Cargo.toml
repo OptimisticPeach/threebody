@@ -1,0 +1,14 @@
+[package]
+name = "nbody"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+plotters = "0.3.1"
+plotters-backend = "0.3.2"
+rand = "0.8.4"
+glam = "0.20.1"
+lazy_static = "1.4.0"
+rayon = "1.5.1"
